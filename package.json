@@ -6,8 +6,8 @@
     "scripts": {
         "start": "webpack -w"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "kidnes",
+    "license": "MIT",
     "dependencies": {
         "babel": "^6.23.0",
         "typescript": "^3.9.7",

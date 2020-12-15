@@ -18,8 +18,7 @@ module.exports = {
         devtools: './src/devtools.ts',
         popup: './src/popup.ts',
         inject: './src/inject.ts',
-        content_script: './src/contentScript.ts', // eslint-disable-line
-        // san_devtools_backend: './src/backend.ts' // eslint-disable-line
+        content_script: './src/contentScript.ts'
     },
     output: {
         path: resolve('dist'),
